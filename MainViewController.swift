@@ -9,7 +9,7 @@ import UIKit
 class MainViewController: UIViewController {
 
     var customAlertView = CustomAlertView()
-    // 사용할 때, 반드시 CustomAlertView()를 var 로 불러와 놓고 사용해야 함
+    // 사용할 때, 반드시 CustomAlertView()를 var나 let 로 불러와 놓고 사용해야 함
     
     
     
